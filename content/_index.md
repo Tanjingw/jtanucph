@@ -88,7 +88,6 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: 
       # Contact (add or remove contact options as necessary)
       email: tjw@henu.edu.cn
       directions: Øster Farimagsgade 5, Copenhagen, DK-1353, Denmark

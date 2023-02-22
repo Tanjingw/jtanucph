@@ -14,7 +14,7 @@ sections:
       text:
   - block: experience
     content:
-      title: edu
+      title: Education
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Recent Research
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)

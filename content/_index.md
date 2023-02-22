@@ -92,16 +92,6 @@ sections:
       email: tjw@henu.edu.cn
       directions: Øster Farimagsgade 5, Copenhagen, DK-1353, Denmark
       contact_links:
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---

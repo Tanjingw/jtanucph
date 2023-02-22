@@ -14,7 +14,7 @@ author_notes:
   - 'Corresponding author'
 
 date: '2021-07-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1109/CISAI54367.2021.00060'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'

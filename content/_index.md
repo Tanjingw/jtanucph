@@ -13,6 +13,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
   - block: experience
+    id: edu
     content:
       title: Education
       # Date format for experience
@@ -70,6 +71,7 @@ sections:
       view: compact
       columns: '2'
   - block: collection
+    id: pub
     content:
       title: Publication
       text: |-

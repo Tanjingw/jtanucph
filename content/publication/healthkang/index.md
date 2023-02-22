@@ -14,7 +14,7 @@ author_notes:
   - ''
 
 date: '2022-12-01T00:00:00Z'
-doi: 'https://arxiv.org/abs/2112.01046'
+doi: 'https://doi.org/10.48550/arXiv.2112.01046'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'

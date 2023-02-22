@@ -1,28 +1,28 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Jingwen Tan
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Jingwen
+last_name: Tan
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Department of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Copenhagen
+    url: https://www.ku.dk/english/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a graduate student in the University of Copenhagen, research interests include Development Economics and Labour Economics. At this stage, my main research is on the economic issues related to the social integration of China’s migrant population and infrastructure construction. 
 
 # Interests to show in About widget
 interests:
@@ -53,19 +53,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/tjw_ku
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com.hk/citations?user=6kJUgLsAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/Tanjingw
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -80,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a graduate student at the University of Copenhagen, my research is in field of empirical development economics and labour economics based on structural form. Specifically, my recent research is social integration of migrant populations in China using the Household Behaviour Structural Model, and the impact of a quasi-natural experiment about inland waterway navigation on economic development using Dynamic Spatial Structural Model.
 {style="text-align: justify;"}

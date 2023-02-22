@@ -3,7 +3,7 @@ title: The impact of the quasi-natural experiment 'Three Gorges Navigation'
 subtitle: The Three Gorges Ship Locks, the largest river navigation project in China, was opened to traffic in 2003. Our team has used DID, RDD and SCM models to analyse the impact of this project on economic development. Working papers based on this quasi-natural experiment have been externally reviewed in several top journals.
 
 # Summary for listings and search engines
-The Three Gorges Ship Locks, the largest river navigation project in China, was opened to traffic in 2003. Our team has used DID, RDD and SCM models to analyse the impact of this project on economic development. Working papers based on this quasi-natural experiment have been under reviewed in top field journals.
+summary: The Three Gorges Ship Locks, the largest river navigation project in China, was opened to traffic in 2003. Our team has used DID, RDD and SCM models to analyse the impact of this project on economic development. Working papers based on this quasi-natural experiment have been under reviewed in top field journals.
 
 # Link this post with a project
 projects: []

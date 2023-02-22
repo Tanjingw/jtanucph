@@ -1,9 +1,11 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+title: The household registration system and the social integration of China's migrant population
+subtitle: This research was supported by funding from the China Population Health Science Data Centre and the China National Science and Technology Infrastructure Platform (S2008405000).
+summary: This research was supported by funding from the China Population Health Science Data Centre and the China National Science and Technology Infrastructure Platform (S2008405000).
+
 authors:
   - admin
+  - Shixi Kang
 tags: []
 categories: []
 projects: []
@@ -15,63 +17,19 @@ image:
 ---
 
 ```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
+
 ```
 
-![png](./index_1_0.png)
+
 
 ```python
-print("Welcome to Academic!")
-```
-
-    Welcome to Academic!
-
-## Install Python and JupyterLab
-
-[Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and JupyterLab.
-
-Alternatively, install JupyterLab with `pip3 install jupyterlab`.
-
-## Create or upload a Jupyter notebook
-
-Run the following commands in your Terminal, substituting `<MY-WEBSITE-FOLDER>` and `<SHORT-POST-TITLE>` with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:
-
-```bash
-mkdir -p <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-cd <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-jupyter lab index.ipynb
-```
-
-The `jupyter` command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.
-
-## Edit your post metadata
-
-The first cell of your Jupter notebook will contain your post metadata ([front matter](https://sourcethemes.com/academic/docs/front-matter/)).
-
-In Jupter, choose _Markdown_ as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:
 
 ```
----
-title: My post's title
-date: 2019-09-01
+### Overview
+The household registration system is a household-based population management system implemented for national citizens settled in mainland China, which divides household attributes into agricultural and non-agricultural households based on geographical and family member relationships, indicating the legitimacy of natural persons living in the local area. This dualistic urban-rural household registration system inhibits the free movement of people between urban and rural areas and is discriminatory in terms of social welfare. Although the division between agricultural and non-agricultural hukou has been phased out of the hukou management system since 2014, it still has widespread and far-reaching effects. Our working paper empirically investigates the social integration of China's mobile population based on the above background.
 
-# Put any other Academic metadata here...
----
-```
+### Searching for the instrumental variable of household registration - and discussing the impact of the household registration system on the social integration of migrant population
+Household registration is common as an explanatory variable in empirical evidence due to the specificity of China's dualistic household registration system and the differences in the rights and benefits attached to it. In the policy context of family planning, this paper proposes to use family size and number of children as instrumental variables of household registration, and discusses its relevance and exogeneity qualitatively and verifies it statistically, while empirically analysing the impact of the household registration system on the citizenship of the migrant population. After controlling for city, individual control variables and fixed effects, the following conclusions are drawn: family size and number of children pass the over-identification test when used as instrumental variables for household registration; non-agricultural households have about 20.2% lower settlement intentions and 7.28% lower employment levels in inflow cities compared to the agricultural household group; the mechanism of the effect of the nature of household registration on employment still holds for the non-migrante population group.
 
-Edit the metadata of your post, using the [documentation](https://sourcethemes.com/academic/docs/managing-content) as a guide to the available options.
-
-To set a [featured image](https://sourcethemes.com/academic/docs/managing-content/#featured-image), place an image named `featured` into your post's folder.
-
-For other tips, such as using math, see the guide on [writing content with Academic](https://wowchemy.com/docs/content/writing-markdown-latex/).
-
-## Convert notebook to Markdown
-
-```bash
-jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-```
-
-## Example
-
-This post was created with Jupyter. The orginal files can be found at https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter
+### Housing Property and Social Integration of the Migrant Population: Analysis based on China Migrants Dynamic Survey 2018
+Using China Migrants Dynamic Survey 2018 and designing the research framework based on push-pull theory, this study empirically analyzes the impact of urban and rural residential property rights factors on the social integration of the migrant population. The results show that there is a significant negative relationship between the ownership of rural residential property rights (residential bases) of the migrant population on their social integration in the inflowing cities. The higher the house price of the migrant population in the inflow city, the lower the level of their social integration. Meanwhile, there is a nonlinear hypothesis for the effect of house price on the social integration of the migrant population.

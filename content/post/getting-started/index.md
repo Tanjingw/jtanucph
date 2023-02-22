@@ -1,18 +1,18 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: The impact of the quasi-natural experiment 'Three Gorges Navigation'
+subtitle: The Three Gorges Ship Locks, the largest river navigation project in China, was opened to traffic in 2003. Our team has used DID, RDD and SCM models to analyse the impact of this project on economic development. Working papers based on this quasi-natural experiment have been externally reviewed in several top journals.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+The Three Gorges Ship Locks, the largest river navigation project in China, was opened to traffic in 2003. Our team has used DID, RDD and SCM models to analyse the impact of this project on economic development. Working papers based on this quasi-natural experiment have been under reviewed in top field journals.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2023-02-22T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: '2023-02-22T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -30,81 +30,29 @@ image:
 
 authors:
   - admin
-  - 吳恩達
+  - Shixi Kang
+  - Hongyan Jia
 
 tags:
   - Academic
-  - 开源
 
 categories:
-  - Demo
-  - 教程
+  - 
 ---
 
 ```python
-import libr
-print('hello')
+
 ```
 
-## Overview
+### Overview
+Yangtze River shipping is a transportation artery linking southwest, central and east China and the southeast coastal region of China, and is an important support for the economic development of the regions along the river. The Three Gorges navigation hub is located in an important location along the Yangtze River main line, which is an important channel for logistics through the Yangtze River "Golden Waterway". Every year, a large number of materials and products pass through the Three Gorges hub, circulating between the central, eastern and western regions. The Three Gorges double-lane five-stage locks are currently the world's largest inland locks in terms of the number of consecutive stages, total drop and single stage drop. Our team has written several papers based on this quasi-natural experiment.
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+### Three Gorges Navigation and Urban Economic Development - A Study Based on DMSP/OLS Satellite Lighting Data
+The Three Gorges navigation is of strategic importance in improving the modern transportation network and promoting the flow of resources within the region. This paper explores the economic effects and mechanisms of the Three Gorges permanent locks opening on the Yangtze River basin cities by using quasi-natural experiments and satellite lighting data as a proxy variable for economic level through DID and DDD. The results show that: (1) the economic level of cities increased significantly after the opening of the Three Gorges, with a certain time lag effect; (2) the opening of the Three Gorges promoted the development of the tertiary industry and further optimised the industrial structure; (3) the opening of the Three Gorges significantly boosted the domestic freight capacity, providing strong support for releasing land transport resources and accelerating the flow of resources between regions.
 
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
+### Three Gorges Navigation and International Trade Development - An Empirical Analysis Based on Dynamic Spatial Structure Model
 
-## Get Started
+The research framework of this paper is based on the dynamic spatial structure model established by Desmet (2018). The model combines economic development with spatial geography to examine the impact of population concentration, firm innovation, and infrastructure development conditions on international trade development. The model is based on dynamic systems and offers greater flexibility relative to Allen's (2014) static spatial economic model. In this paper, we extend the model in two ways. Firstly, we add capital as a factor of production to the firm's production function and create an expression that incorporates capital for the firm's profit maximisation problem. Secondly, the paper considers the impact of transport infrastructure development on the trade balance and general equilibrium. In this paper, we select provincial panel data for the 20-year period 1998-2017 and develop a SCM model to analyse the impact of the quasi-natural experiment of the Three Gorges Pass on trade development. We also use prefecture-level city panel data from 2000-2017 to robustly test the findings.
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+**In addition, our other working papers analyse the impact of the quasi-natural experiment of Three Gorges Navigation using labour endowment allocation, TFP, and GDP as dependent variables.**
 
-## Crowd-funded open-source software
-
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/sponsor/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/sponsor/) awesome rewards and extra features 🦄✨**
-
-## Ecosystem
-
-- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
-
-## Features
-
-- **Page builder** - Create _anything_ with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.

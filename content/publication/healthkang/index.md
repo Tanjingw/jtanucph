@@ -25,8 +25,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In * Journal of Demographic Economics, under review*
-publication_short: In * Journal of Demographic Economics, under review*
+publication: In *Journal of Demographic Economics, under review*
+publication_short: In *Journal of Demographic Economics, under review*
 
 abstract: This paper uses data from the 2018 China Migrant Dynamic Survey to estimate the impact of house prices on the fertility plans of the migrant population, with the sample consisting of 45,355 married female migrants aged 16-50. The results show that the higher house prices in the inflow cities, the less likelihood female migrants have fertility plans; when the housing pressure of the migrants is low, their fertility plans are less affected by house prices; the sensitivity of the migrant population’s fertility plans to house prices is also influenced by the moderating effect of infrastructure development; the fertility plans of female migrants with larger family size, higher education level and younger age are more sensitive to house prices.
 

@@ -8,6 +8,8 @@ title: 'Does house price affect the fertility plan of the migrants? Empirical an
 authors:
   - admin
   - Shixi Kang
+  - He Shi
+  - Qi Zhang
 # Author notes (optional)
 author_notes:
   - ''

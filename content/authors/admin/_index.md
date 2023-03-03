@@ -22,7 +22,7 @@ organizations:
     url: https://www.ku.dk/english/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a graduate student in the University of Copenhagen, research interests include Development Economics and Labour Economics. At this stage, my main research is on the economic issues related to the social integration of China’s migrant population and infrastructure construction. 
+bio: I am a graduate student in the University of Copenhagen, research interests include Development Economics and Labour Economics.
 
 # Interests to show in About widget
 interests:
@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a graduate student at the University of Copenhagen, my research is in field of empirical development economics and labour economics based on structural form. Specifically, my recent research is social integration of migrant populations in China using the Household Behaviour Structural Model, and the impact of a quasi-natural experiment about inland waterway navigation on economic development using Dynamic Spatial Structural Model.
+I am a graduate student at the University of Copenhagen, my main research is development economics and labour economics based on structural form. Specifically, my recent projects are social integration of migrant population using Household Behaviour Structural Model, and the impact of a quasi-natural experiment about inland waterway navigation on economic development using Dynamic Spatial Structural Model.
 {style="text-align: justify;"}

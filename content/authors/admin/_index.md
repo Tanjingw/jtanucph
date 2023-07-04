@@ -71,5 +71,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a postgraduate student at University of Copenhagen and my main research is on labour and development economics combining reduced and structural form. Specifically, my most recent research is based on a dynamic spatial structure theory model that investigates the impact of urban characteristics on the social behaviour of mobile populations. Another of my projects is a study of the impact of the Three Gorges Navigation Quasi-Natural Experiment on economic development.
+I am a postgraduate student at University of Copenhagen and my main research is on labour and development economics combining reduced and structural form. Specifically, my recent research is based on dynamic spatial structure model that investigates the impact of urban characteristics on the social behaviour of migrant populations. Another project is a study of the impact of the Three Gorges Navigation Quasi-Natural Experiment on economic development.
 {style="text-align: justify;"}

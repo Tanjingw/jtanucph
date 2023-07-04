@@ -1,20 +1,22 @@
 ---
-title: 'Can Education Motivate Individual Health Demands? Dynamic Pseudo-panel Evidence from China’s Immigration.'
+title: 'What Influences Fertility Plans of China's Migrant Populations? Mechanism Analysis Based on House Prices Perspective.'
 
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Shixi Kang
   - admin
+  - Shixi Kang
+  - He Shi
+  - Qi Zhang
 
 # Author notes (optional)
 author_notes:
   - ''
 
 date: '2022-12-01T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2112.01046'
+doi: 'https://ssrn.com/abstract=4434160'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -26,13 +28,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *BMC Public Health, Forthcoming*
-publication_short: In *BMC Public Health, Forthcoming*
+publication: In *Available at SSRN*
+publication_short: In *Available at SSRN*
 
-abstract: Enhancing residents’ willingness to participate in basic health services is a key initiative to optimize the allo-cation of health care resources and promote equitable improvements in group health. This paper investigates the effect of education on resident health record completion rates using a system GMM model based on pseudo-panel that consisting of five-year cross-sectional data. To mitigate possible endogeneity, this paper controls for cohort effects while also attenuating dynamic bias in the estimation from a dynamic perspective and provides robust estimates based on multi-model regression. The results show that (1) education can give positive returns on health needs to the mobile population under the static perspective, and such returns are underestimated when cohort effects are ignored; (2) there is a significant cumulative effect of file completion rate under the dynamic perspective, and file completion in previous years will have a positive effect on the current year. (3)The positive relationship between education and willingness to make health decisions is also characterized by heterogeneity by gender, generation, and education level itself. Among them, education is more likely to promote decision-making intentions among men and younger groups, and this motivational effect is more significant among those who received basic education.
+abstract: The demographic imbalance brought about by China's low fertility rate in recent years is a matter of concern. This paper uses data from the 2018 China Migrant Dynamic Survey to estimate the impact of house prices on the fertility plans of the migrant populations. After using instrumental variables and propensity score matching to mitigate potential endogeneity problems, the results show that the higher house prices in the inflow cities, the less likelihood female migrant populations have fertility plans; if the housing pressure of the migrant populations is low, their fertility plans are less affected by house prices; the sensitivity of the migrant populations' fertility plans to house prices is also influenced by the moderating effect of infrastructure development; heterogeneity analysis shows that the fertility plans of female migrant populations with larger family size, higher education level and younger age are more sensitive to house prices. This paper fills the gap in the impact of house prices on the fertility of migrant populations group and analyzed the mechanism of the impact of house prices on the fertility plans of the migrant populations.
 
 # Summary. An optional shortened abstract.
-summary: Migrant, Health equity, Pseudo-Panel.
+summary: Migrant Populations, House Price, Fertility plans, Moderating Effect, China.
 
 tags: []
 

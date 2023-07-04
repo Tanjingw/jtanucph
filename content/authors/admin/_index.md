@@ -19,7 +19,7 @@ role: Department of Economics
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Copenhagen
-    url: https://www.ku.dk/english/
+    url: https://www.economics.ku.dk/research/top_publications/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a graduate student in the University of Copenhagen, research interests include Development Economics and Labour Economics.
@@ -51,12 +51,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/tjw_ku
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com.hk/citations?user=6kJUgLsAAAAJ&hl=en
@@ -77,5 +71,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a graduate student at the University of Copenhagen, my main research is development economics and labour economics based on structural form. Specifically, my recent projects are social integration of migrant population using Household Behaviour Structural Model, and the impact of a quasi-natural experiment about inland waterway navigation on economic development using Dynamic Spatial Structural Model.
+I am a postgraduate student at University of Copenhagen and my main research is on labour and development economics combining reduced and structural form. Specifically, my most recent research is based on a dynamic spatial structure theory model that investigates the impact of urban characteristics on the social behaviour of mobile populations. Another of my projects is a study of the impact of the Three Gorges Navigation Quasi-Natural Experiment on economic development.
 {style="text-align: justify;"}
